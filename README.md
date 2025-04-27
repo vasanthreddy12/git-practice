@@ -8,8 +8,8 @@ This repository is created to practice and demonstrate basic Git commands for de
 
 1. **Create a local directory:**
    ```bash
-   mkdir prac_git
-   cd prac_git
+   mkdir git-practice
+   cd git-practice
    ```
 
 2. **Initialize a Git repository:**
@@ -18,11 +18,11 @@ This repository is created to practice and demonstrate basic Git commands for de
    ```
 
 3. **Create a repository on GitHub:**
-   - Go to [GitHub](https://github.com/) and create a new repository (e.g., `prac_git`).
+   - Go to [GitHub](https://github.com/) and create a new repository (e.g., `git-practice`).
 
 4. **Link the local repo to GitHub:**
    ```bash
-   git remote add origin git@github.com:vasanthreddy12/prac_git.git
+   git remote add origin git@github.com:vasanthreddy12/git-practice.git
    ```
    > (Use SSH or HTTPS based on your setup.)
 
